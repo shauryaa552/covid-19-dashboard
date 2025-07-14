@@ -20,4 +20,4 @@ This Power BI dashboard analyzes global COVID-19 data across time and countries.
 - Dataset: COVID-19 Cleaned Dataset from Kaggle
 
 
-✅ Feel free to download and explore the report!
+
